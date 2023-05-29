@@ -1,24 +1,21 @@
-# Ex03-Univariate-Analysis
-
+# Ex03 Univariate analysis
 ## AIM
-
 To perform univariate analysis on the given dataset
 
 ## ALGORITHM
-
-# Step 1
+### Step 1
 
 Read the data
 
-# Step 2
+### Step 2
 
 Perform univariate analysis on numerical data
 
-# Step 3
+### Step 3
 
 Do both Stastical and graphical methods
 
-# Step 4
+### Step 4
 
 Print the output
 
@@ -56,9 +53,11 @@ sns.displot(x="Sales",data=df)
 
 sns.histplot(x="Sales",data=df)
 
+
 ## OUTPUT
 
 ![op1](https://user-images.githubusercontent.com/112301582/228903843-e484735a-30a5-49b8-8bc7-d776d8380e58.png)
+
 ![op2](https://user-images.githubusercontent.com/112301582/228903850-a699daea-6ec2-4db1-937d-a0dcc9a68b89.png)
 ![op3](https://user-images.githubusercontent.com/112301582/228903866-a7ae9465-5727-4b3e-abec-30f7c2067cd0.png)
 ![op4](https://user-images.githubusercontent.com/112301582/228903880-019d99ff-19ed-4dde-86e0-be68db008f4f.png)
@@ -73,7 +72,5 @@ sns.histplot(x="Sales",data=df)
 ![op13](https://user-images.githubusercontent.com/112301582/228904621-646c8a9a-3f95-4806-91c8-641fd9177448.png)
 ![op14](https://user-images.githubusercontent.com/112301582/228904465-ef4cfc6c-42ae-4024-8e06-e28a86fae88b.png)
 
-
 ## RESULT
-
 Thus the univariate analysis was performed on the given dataset
